@@ -27,7 +27,7 @@
           "leftColumn": 0,
           "children": [
             {
-              "widgetName": "Button1",
+              "widgetName": "button123",
               "buttonColor": "#03B365",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca02633.svg",
@@ -58,7 +58,7 @@
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
-          "Button1",
+          "button123",
           "MainContainer"
         ],
         "validOnPageLoadActions": true,
